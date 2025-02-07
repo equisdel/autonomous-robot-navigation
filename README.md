@@ -6,7 +6,7 @@ Developed in collaboration with Nahuel Román, whose expertise and contributions
 
 🔗 Original repository: [Nahuel Román's University Portfolio](https://github.com/Nahuel7978/university_portfolio.git) (see "Q-Learning" section).
 
-## Installation & Usage  
+### Installation & Usage
 1. Open the project in **Webots**.  
 2. Locate the **controller file** and ensure Webots is set to use it.  
 3. Run the simulation to observe the robot’s learning-based navigation.  

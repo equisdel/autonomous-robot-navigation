@@ -4,7 +4,7 @@ This project implements Q-Learning-based autonomous navigation for the Husarion 
 
 Developed in collaboration with Nahuel Román, whose expertise and contributions were fundamental to this project.
 
-🔗 Original repository: Nahuel Román's University Portfolio (see "Q-Learning" section).
+🔗 Original repository: [Nahuel Román's University Portfolio](https://github.com/Nahuel7978/university_portfolio.git) (see "Q-Learning" section).
 
 ### Features
 - Q-Learning for navigation – The robot learns optimal movement strategies through trial and error.
